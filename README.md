@@ -19,7 +19,7 @@ This project implements an automated system for detecting Personal Protective Eq
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/harshpanchal04/ppe-detection.git
+   git clone https://github.com/harshpanchal04/PPE-Detection.git
    cd ppe-detection
    ```
 
