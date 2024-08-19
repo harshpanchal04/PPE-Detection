@@ -1,5 +1,5 @@
 # PPE Detection Project
-
+## Documentation - https://docs.google.com/document/d/1Hw8jjdOXDb3vB7RjMGEXrgPi9q_nZ3mPJyfggcHDfSc/pub
 ## Overview
 This project implements an automated system for detecting Personal Protective Equipment (PPE) in images using YOLOv8. It includes scripts for data preparation, model training, and inference.
 
