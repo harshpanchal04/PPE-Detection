@@ -2,7 +2,7 @@
 ## Documentation 
 ### https://docs.google.com/document/d/1Hw8jjdOXDb3vB7RjMGEXrgPi9q_nZ3mPJyfggcHDfSc/pub
 ## Demo Video
-### https://www.loom.com/share/35cb147e862944dbaa58ea74c5bb458a?sid=7b998cde-7e03-4f1d-a334-511a4f2eba41
+#### https://www.loom.com/share/35cb147e862944dbaa58ea74c5bb458a?sid=7b998cde-7e03-4f1d-a334-511a4f2eba41
 
 ## Overview
 This project implements an automated system for detecting Personal Protective Equipment (PPE) in images using YOLOv8. It includes scripts for data preparation, model training, and inference.
